@@ -9,11 +9,11 @@ import java.awt.event.WindowEvent;
 
 public class MyFrame extends JFrame {
     public MyFrame(){
-        /*this.setSize(500,300);
+        this.setSize(500,300);
         this.setLocation(500,300);
         this.setBounds(500,300, 550,250);//setLocation+setSize
         this.setResizable(false);//ni redimensionar ni maximizar
-        this.setExtendedState(Frame.MAXIMIZED_BOTH);*/
+        this.setExtendedState(Frame.MAXIMIZED_BOTH);*
 
         //<editor-fold desc="Centrar frame">
         Toolkit screen = Toolkit.getDefaultToolkit();
